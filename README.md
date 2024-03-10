@@ -1,2 +1,3 @@
 # next-paypal
-API to connect a payment method
+Interface used to collect consumer payment information.
+API integration
